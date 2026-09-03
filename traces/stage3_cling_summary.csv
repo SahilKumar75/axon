@@ -1,0 +1,11 @@
+metric,value,ci_low,ci_high
+pre_accuracy,0.600,,
+post_accuracy,0.200,,
+pre_agreement,0.632,,
+post_agreement,0.632,,
+agreement_change,0.000,,
+group_accuracy_collapse_step,10,,
+group_confidence_dip_step,12,,
+group_cling_time,2,,
+seed_mean_cling_time,1.800,0.800,3.000
+seed_censored_rate,0.000,,

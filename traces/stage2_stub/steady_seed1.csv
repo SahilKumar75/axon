@@ -1,0 +1,9 @@
+step,phase,cue,chosen,correct,reward,agreement,branches
+0,pre,blue,A,B,0,0.4,A|B|A|C|B
+1,pre,green,B,A,0,0.6,B|B|B|A|A
+2,pre,blue,C,B,0,0.4,C|B|C|A|A
+3,pre,red,B,C,0,0.6,A|B|A|B|B
+4,pre,blue,A,B,0,0.4,B|A|C|A|C
+5,pre,red,A,C,0,0.4,A|C|B|A|B
+6,pre,red,C,C,1,0.4,C|C|A|A|B
+7,pre,red,C,C,1,0.6,C|B|C|B|C

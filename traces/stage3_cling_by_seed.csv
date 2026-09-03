@@ -1,0 +1,6 @@
+seed,accuracy_collapse_step,confidence_dip_step,cling_time,censored
+0,10,14,4,0
+1,10,11,1,0
+2,10,12,2,0
+3,10,12,2,0
+4,10,10,0,0

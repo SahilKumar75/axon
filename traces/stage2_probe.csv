@@ -1,0 +1,2 @@
+step,phase,cue,chosen,correct,reward,agreement,branches
+0,pre,red,A,C,0,1.0,A

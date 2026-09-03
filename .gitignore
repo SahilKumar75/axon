@@ -1,0 +1,8 @@
+# noise only. traces/ and plots/ are deliberately NOT ignored: they are the
+# experimental record, they cost API spend to regenerate, and the paper cites them.
+.DS_Store
+__pycache__/
+*.pyc
+.serena/
+*.bak
+tmp/

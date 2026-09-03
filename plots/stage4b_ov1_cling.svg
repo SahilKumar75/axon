@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="380" viewBox="0 0 700 380">
+<rect width="700" height="380" fill="white"/>
+<line x1="56" y1="320" x2="656" y2="320" stroke="#222"/>
+<line x1="56" y1="34" x2="56" y2="320" stroke="#222"/>
+<text x="350" y="22" text-anchor="middle" font-family="Arial" font-size="16">Accuracy and agreement around shift</text>
+<polyline fill="none" stroke="#222f8f" stroke-width="3" points="56.0,91.2 98.9,91.2 141.7,72.1 184.6,119.8 227.4,72.1 270.3,224.7 313.1,205.6 356.0,215.1 398.9,196.1 441.7,186.5 484.6,186.5 527.4,215.1 570.3,224.7 613.1,186.5 656.0,196.1"/>
+<polyline fill="none" stroke="#c43c35" stroke-width="3" points="56.0,140.8 98.9,123.6 141.7,123.6 184.6,140.8 227.4,116.0 270.3,110.3 313.1,135.1 356.0,152.2 398.9,140.8 441.7,131.2 484.6,138.9 527.4,150.3 570.3,140.8 613.1,157.9 656.0,135.1"/>
+<text x="570" y="54" font-family="Arial" font-size="12" fill="#222f8f">accuracy</text>
+<text x="570" y="74" font-family="Arial" font-size="12" fill="#c43c35">agreement</text>
+<line x1="52" y1="320.0" x2="56" y2="320.0" stroke="#222"/>
+<text x="48" y="324.0" text-anchor="end" font-family="Arial" font-size="10">0.0</text>
+<line x1="52" y1="177.0" x2="56" y2="177.0" stroke="#222"/>
+<text x="48" y="181.0" text-anchor="end" font-family="Arial" font-size="10">0.5</text>
+<line x1="52" y1="34.0" x2="56" y2="34.0" stroke="#222"/>
+<text x="48" y="38.0" text-anchor="end" font-family="Arial" font-size="10">1.0</text>
+<text x="56.0" y="338" text-anchor="middle" font-family="Arial" font-size="10">5</text>
+<text x="98.9" y="338" text-anchor="middle" font-family="Arial" font-size="10">6</text>
+<text x="141.7" y="338" text-anchor="middle" font-family="Arial" font-size="10">7</text>
+<text x="184.6" y="338" text-anchor="middle" font-family="Arial" font-size="10">8</text>
+<text x="227.4" y="338" text-anchor="middle" font-family="Arial" font-size="10">9</text>
+<text x="270.3" y="338" text-anchor="middle" font-family="Arial" font-size="10">10</text>
+<line x1="270.3" y1="34" x2="270.3" y2="320" stroke="#777" stroke-dasharray="4 4"/>
+<text x="313.1" y="338" text-anchor="middle" font-family="Arial" font-size="10">11</text>
+<text x="356.0" y="338" text-anchor="middle" font-family="Arial" font-size="10">12</text>
+<text x="398.9" y="338" text-anchor="middle" font-family="Arial" font-size="10">13</text>
+<text x="441.7" y="338" text-anchor="middle" font-family="Arial" font-size="10">14</text>
+<text x="484.6" y="338" text-anchor="middle" font-family="Arial" font-size="10">15</text>
+<text x="527.4" y="338" text-anchor="middle" font-family="Arial" font-size="10">16</text>
+<text x="570.3" y="338" text-anchor="middle" font-family="Arial" font-size="10">17</text>
+<text x="613.1" y="338" text-anchor="middle" font-family="Arial" font-size="10">18</text>
+<text x="656.0" y="338" text-anchor="middle" font-family="Arial" font-size="10">19</text>
+</svg>
